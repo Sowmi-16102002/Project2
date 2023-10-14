@@ -1,2 +1,1 @@
-# Project2
-IOT phase 2
+# Project2 ioT phase 2
